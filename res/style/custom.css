@@ -1,0 +1,11 @@
+.container-fluid {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#hero {
+  height: 96vh;
+  object-fit: cover;
+}
